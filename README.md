@@ -10,4 +10,6 @@ This repository contains the core desktop-based architecture of the IT Service M
 
 <img width="1918" height="1020" alt="image" src="https://github.com/user-attachments/assets/a7b6b828-8e91-41ca-91fc-fbb45fbef6e5" />
 
+<img width="1918" height="1017" alt="image" src="https://github.com/user-attachments/assets/c701947f-f525-4b95-b488-b99ad7f0a69c" />
 
+<img width="1918" height="1017" alt="image" src="https://github.com/user-attachments/assets/4c5ae2ce-e042-4ca3-86db-e4e6e84154b7" />
